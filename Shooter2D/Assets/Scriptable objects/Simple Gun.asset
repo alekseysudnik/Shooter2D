@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62746699f7241ea41b49acbe41c858bd, type: 3}
+  m_Name: Simple Gun
+  m_EditorClassIdentifier: 
+  weaponPrefab: {fileID: 4312337804659480236, guid: 33a173b749dcdb14ba1d834a07f32206, type: 3}
+  missileSO: {fileID: 11400000, guid: d23b0b91f27e3eb4d97064e528d619d1, type: 2}
+  shootSound: {fileID: 8300000, guid: b34f48b59a48b7f42b07abf7a9d8f8e4, type: 3}
+  cooldownTime: 0.5
+  weaponName: SimpleGun
